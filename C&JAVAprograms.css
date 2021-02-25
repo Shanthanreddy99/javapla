@@ -1,0 +1,16 @@
+body{
+padding-top: 100px;
+font-style: italic;
+background-image: url(https://images.unsplash.com/photo-1568438350562-2cae6d394ad0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzl8fGFic3RyYWN0fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+background-attachment:scroll;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.font{
+font-weight:bold;
+font-family: sans-serif;
+font-size:xx-large;
+color: red;
+
+}
